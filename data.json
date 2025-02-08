@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "image": "https://username.github.io/repository/images/alice.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "image": "https://username.github.io/repository/images/bob.jpg"
+    }
+]

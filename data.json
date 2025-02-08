@@ -10,3 +10,22 @@
         "image": "https://username.github.io/repository/images/bob.jpg"
     }
 ]
+
+[
+    {
+        "name": "Франция",
+        "capital": "Париж",
+        "population": 67000000,
+        "language": "Французский",
+        "currency": "Евро",
+        "flagUrl": ""
+    },
+    {
+        "name": "Япония",
+        "capital": "Токио",
+        "population": 126000000,
+        "language": "Японский",
+        "currency": "Иена",
+        "flagUrl": ""
+    }
+]

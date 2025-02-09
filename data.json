@@ -14,5 +14,29 @@
         "language": "Японский",
         "currency": "Иена",
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/jp.png"
+    },
+    {
+        "name": "Беларусь",
+        "capital": "Минск",
+        "population": 9.178,
+        "language": "Белорусский",
+        "currency": "Белорусский рубль",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/by.png"
+    },
+    {
+        "name": "Россия",
+        "capital": "Москва",
+        "population": 143.8,
+        "language": "Русский",
+        "currency": "Российский рубль",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/ru.png"
+    }
+    {
+        "name": "Испания",
+        "capital": "Мадрид",
+        "population": 48.37,
+        "language": "Испанский",
+        "currency": "Евро",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/es.png"
     }
 ]

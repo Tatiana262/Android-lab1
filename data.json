@@ -16,27 +16,107 @@
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/jp.png"
     },
     {
-        "name": "Япония",
-        "capital": "Токио",
-        "population": 124.5,
-        "language": "Японский",
-        "currency": "Иена",
+        "name": "Беларусь",
+        "capital": "Минск",
+        "population": 9.178,
+        "language": "Белорусский, русский",
+        "currency": "Белорусский рубль",
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/by.png"
     },
     {
-        "name": "Япония",
-        "capital": "Токио",
-        "population": 124.5,
-        "language": "Японский",
-        "currency": "Иена",
+        "name": "Россия",
+        "capital": "Москва",
+        "population": 143.8,
+        "language": "Русский",
+        "currency": "Российский рубль",
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/ru.png"
     },
     {
-        "name": "Япония",
-        "capital": "Токио",
-        "population": 124.5,
-        "language": "Японский",
-        "currency": "Иена",
+        "name": "Испания",
+        "capital": "Мадрид",
+        "population": 48.37,
+        "language": "Испанский",
+        "currency": "Евро",
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/es.png"
+    },
+    {
+        "name": "Австралия",
+        "capital": "Канберра",
+        "population": 26.64,
+        "language": "Австралийский английский",
+        "currency": "Австралийский доллар",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/au.png"
+    },
+    {
+        "name": "Австралия",
+        "capital": "Канберра",
+        "population": 26.64,
+        "language": "Австралийский английский",
+        "currency": "Австралийский доллар",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/au.png"
+    },
+    {
+        "name": "Греция",
+        "capital": "Афины",
+        "population": 10.36,
+        "language": "Греческий",
+        "currency": "Евро",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/gr.png"
+    },
+    {
+        "name": "Индия",
+        "capital": "Нью-Дели",
+        "population": 1425.94,
+        "language": "Хинди, английский",
+        "currency": "Индийская рупия",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/in.png"
+    },
+    {
+        "name": "Китай",
+        "capital": "Пекин",
+        "population": 1408.28,
+        "language": "Китайский",
+        "currency": "Юань",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/cn.png"
+    },
+    {
+        "name": "Польша",
+        "capital": "Варшава",
+        "population": 36.69,
+        "language": "Польский",
+        "currency": "Злотый",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/pl.png"
+    },
+    {
+        "name": "Чехия",
+        "capital": "Прага",
+        "population": 10.87,
+        "language": "Чешский",
+        "currency": "Чешская крона",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/cz.png"
+    },
+    {
+        "name": "Швеция",
+        "capital": "Стокгольм",
+        "population": 10.54,
+        "language": "Шведский",
+        "currency": "Шведская крона",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/se.png"
+    },
+    {
+        "name": "Австрия",
+        "capital": "Вена",
+        "population": 9.132,
+        "language": "Немецкий",
+        "currency": "Евро",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/at.png"
+    },
+    {
+        "name": "Нидерланды",
+        "capital": "Амстердам",
+        "population": 17.88,
+        "language": "Нидерландский",
+        "currency": "Евро",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/nl.png"
     }
 ]

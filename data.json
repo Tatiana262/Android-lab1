@@ -48,12 +48,12 @@
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/au.png"
     },
     {
-        "name": "Австралия",
-        "capital": "Канберра",
-        "population": 26.64,
-        "language": "Австралийский английский",
-        "currency": "Австралийский доллар",
-        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/au.png"
+        "name": "Литва",
+        "capital": "Вильнюс",
+        "population": 2.872,
+        "language": "Литовский",
+        "currency": "Евро",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/lt.png"
     },
     {
         "name": "Греция",

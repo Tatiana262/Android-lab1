@@ -2,7 +2,7 @@
     {
         "name": "Франция",
         "capital": "Париж",
-        "population": 67000000,
+        "population": 68.17,
         "language": "Французский",
         "currency": "Евро",
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/fr.png"
@@ -10,7 +10,7 @@
     {
         "name": "Япония",
         "capital": "Токио",
-        "population": 126000000,
+        "population": 124.5,
         "language": "Японский",
         "currency": "Иена",
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/jp.png"

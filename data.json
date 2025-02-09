@@ -14,5 +14,29 @@
         "language": "Японский",
         "currency": "Иена",
         "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/jp.png"
+    },
+    {
+        "name": "Япония",
+        "capital": "Токио",
+        "population": 124.5,
+        "language": "Японский",
+        "currency": "Иена",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/by.png"
+    },
+    {
+        "name": "Япония",
+        "capital": "Токио",
+        "population": 124.5,
+        "language": "Японский",
+        "currency": "Иена",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/ru.png"
+    },
+    {
+        "name": "Япония",
+        "capital": "Токио",
+        "population": 124.5,
+        "language": "Японский",
+        "currency": "Иена",
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/es.png"
     }
 ]

@@ -5,7 +5,7 @@
         "population": 68.17,
         "language": "Французский",
         "currency": "Евро",
-        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/fr.png"
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/fr.png"
     },
     {
         "name": "Япония",
@@ -13,7 +13,7 @@
         "population": 124.5,
         "language": "Японский",
         "currency": "Иена",
-        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/"
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/jp.png"
     },
     {
         "name": "Беларусь",
@@ -21,7 +21,7 @@
         "population": 9.178,
         "language": "Белорусский, русский",
         "currency": "Белорусский рубль",
-        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/image/by.png"
+        "flagUrl": "https://raw.githubusercontent.com/tatiana262/Android-lab1/main/by.png"
     },
     {
         "name": "Россия",
